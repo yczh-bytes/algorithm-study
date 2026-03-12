@@ -14,7 +14,7 @@ class LinkedList{
     Node* head;//定义虚拟头结点
     public:
     //构造函数
-    LinkedList()
+    LinkedList()1
     {
         head = new Node();
     }
